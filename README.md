@@ -48,7 +48,8 @@ python main.py
 
 ## Project Structure
 
-Connect4/
+**Connect4/**
+
 ├── board.py       # Handles the board logic, move validation, and win checks.
 
 ├── default.py     # Implements the default player strategy.
