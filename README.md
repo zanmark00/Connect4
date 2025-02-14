@@ -36,7 +36,7 @@ Whether you're interested in artificial intelligence or simply enjoy classic boa
 Ensure you have [Python 3.x](https://www.python.org/downloads/) installed on your system. Then, clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/yourusername/Connect4.git
+git clone https://github.com/zanmark00/Connect4.git
 cd Connect4
 ```
 
