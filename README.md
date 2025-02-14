@@ -13,9 +13,6 @@ A Connect Four game implemented in Python featuring several AI strategies. This 
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Project Structure](#project-structure)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
